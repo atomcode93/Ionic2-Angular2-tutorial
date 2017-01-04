@@ -1,0 +1,4 @@
+This app is used Ionic2 + AngularJS 2.
+This is contains 4 pages: User, User-Details, Repos, Orgnizations
+And it is contain one provider: github-users.
+In github-uers.ts file, we can get user information using github apis.
